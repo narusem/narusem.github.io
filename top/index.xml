@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on Welcome to E-KNOWLEDGE,Corp</title>
+    <link>http://localhost:1313/top/</link>
+    <description>Recent content in Tops on Welcome to E-KNOWLEDGE,Corp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 16 Feb 2016 19:30:31 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/top/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>これで解決！</title>
+      <link>http://localhost:1313/top/solution/</link>
+      <pubDate>Tue, 16 Feb 2016 19:30:31 +0900</pubDate>
+      
+      <guid>http://localhost:1313/top/solution/</guid>
+      <description>
+
+&lt;h1 id=&#34;一人でいろいろな業務をこなしきれない-時間にも能力にも限界があるとき:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;一人でいろいろな業務をこなしきれない、時間にも能力にも限界があるとき。&lt;/h1&gt;
+
+&lt;h2 id=&#34;エクセルをデータベースとして使えないか:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;エクセルをデータベースとして使えないか。&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;扱いたいデータを表形式にして複数に分ける。&lt;/li&gt;
+&lt;li&gt;１つのシートに１つの表を割り当てる。&lt;/li&gt;
+&lt;li&gt;表の間でセルの参照を行うように構成する。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;リモートアクセスの仕組みを使って自分の会社のpcに外出先からアクセスできないか:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;リモートアクセスの仕組みを使って自分の会社のPCに外出先からアクセスできないか。&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;VPN＝Virtual Private Networkの略、つまりインターネット上に仮想的なネットワークを作る&lt;/li&gt;
+&lt;li&gt;仮想化=サーバーの中にパソコンの環境を作る&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>コンセプト</title>
+      <link>http://localhost:1313/top/concept/</link>
+      <pubDate>Tue, 16 Feb 2016 18:30:31 +0900</pubDate>
+      
+      <guid>http://localhost:1313/top/concept/</guid>
+      <description>
+
+&lt;h1 id=&#34;企業が悩んでいることをソフトウェアで解決しよう:2a741f61c790d3ccc95ece52de322078&#34;&gt;企業が悩んでいることをソフトウェアで解決しよう！&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;他の人とのつながりを大切にしよう。&lt;/li&gt;
+&lt;li&gt;めぐってきたチャンスを大切にしよう。&lt;/li&gt;
+&lt;li&gt;相手の気持ちになって考えます。&lt;/li&gt;
+&lt;li&gt;毎日の記録は大事。&lt;/li&gt;
+&lt;li&gt;頑張り過ぎずに、家族は大切に。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>業務分野</title>
+      <link>http://localhost:1313/top/category/</link>
+      <pubDate>Mon, 15 Feb 2016 18:30:31 +0900</pubDate>
+      
+      <guid>http://localhost:1313/top/category/</guid>
+      <description>
+
+&lt;h1 id=&#34;みる-きく-わかる-難しい専門用語をなるべく使わずにご説明を心がけています:3e69721a193c4a440e08a1dc438e9b91&#34;&gt;みる、きく、わかる。難しい専門用語をなるべく使わずにご説明を心がけています。&lt;/h1&gt;
+
+&lt;p&gt;ネットワークセキュリティに関するコンサルティング・ウイルス対策、ＰＣのデータの暗号化・盗難・不正アクセス対策、ネットワークの冗長化・無線ＬＡＮの設置、重要データのバックアップ、外出先でのインターネット接続・ＶＰＮによる社内へのアクセス、本社と支社のネットワークの統合、ＰＣデスクトップの仮想化・リモートアクセス、ＰＣ管理・シンクライアントの導入、オフィス文書の共有、インターネットを介したデータ共有、社内のデータベースの構築、データ集計・評価によるフィードバック、ＩＴに関するトレーニング／研修。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
