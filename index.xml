@@ -149,25 +149,6 @@
     </item>
     
     <item>
-      <title>ヘッドライン</title>
-      <link>http://localhost:1313/headline/head1/</link>
-      <pubDate>Mon, 15 Feb 2016 16:44:18 +0900</pubDate>
-      
-      <guid>http://localhost:1313/headline/head1/</guid>
-      <description>&lt;p&gt;ｅ・ナレッジは、２００５年に創業したITに関するトレーニング/研修やパッケージをメインとした業務システム開発を行っている会社です。&lt;/p&gt;
-
-&lt;p&gt;ＩＴの分野は主にWEB関連の分野と業務システム関連の分野に分かれますが、当社は主に業務システム関連の分野に特化したコンサルティング業務を行っております。中小企業のお客様にとって便利なＩＴ分野の相談相手として選んで頂ければと考えております。&lt;/p&gt;
-
-&lt;p&gt;Ｅｘｃｅｌ／Ａｃｃｅｓｓの活用、社内ネットワークシステムの構築、IT教育・研修に関するご相談はぜひ当社までお問い合わせください。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;有限会社ｅ・ナレッジ　代表　成瀬真之&lt;/li&gt;
-&lt;li&gt;お問い合わせ先　&lt;span class=&#34;glyphicon glyphicon-phone-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;　TEL／FAX　03-5933-6431&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>会社概要</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 15 Feb 2016 16:44:18 +0900</pubDate>
@@ -270,6 +251,25 @@
 &lt;h1 id=&#34;採用情報:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;採用情報&lt;/h1&gt;
 
 &lt;p&gt;現在、正社員の募集は行っておりません。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ヘッドライン</title>
+      <link>http://localhost:1313/headline/head1/</link>
+      <pubDate>Mon, 15 Feb 2016 16:44:18 +0900</pubDate>
+      
+      <guid>http://localhost:1313/headline/head1/</guid>
+      <description>&lt;p&gt;ｅ・ナレッジは、２００５年に創業したITに関するトレーニング/研修やパッケージをメインとした業務システム開発を行っている会社です。&lt;/p&gt;
+
+&lt;p&gt;ＩＴの分野は主にWEB関連の分野と業務システム関連の分野に分かれますが、当社は主に業務システム関連の分野に特化したコンサルティング業務を行っております。中小企業のお客様にとって便利なＩＴ分野の相談相手として選んで頂ければと考えております。&lt;/p&gt;
+
+&lt;p&gt;Ｅｘｃｅｌ／Ａｃｃｅｓｓの活用、社内ネットワークシステムの構築、IT教育・研修に関するご相談はぜひ当社までお問い合わせください。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;有限会社ｅ・ナレッジ　代表　成瀬真之&lt;/li&gt;
+&lt;li&gt;お問い合わせ先　&lt;span class=&#34;glyphicon glyphicon-phone-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;　TEL／FAX　03-5933-6431&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

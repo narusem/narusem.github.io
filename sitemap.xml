@@ -33,12 +33,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/headline/head1/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2016-02-15T16:44:18+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/headline/head1/</loc>
     <lastmod>2016-02-15T16:44:18+09:00</lastmod>
   </url>
   
