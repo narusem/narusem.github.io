@@ -3,13 +3,18 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2016-03-06T08:00:57+09:00</lastmod>
+    <lastmod>2020-12-01T23:27:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/adoption/</loc>
-    <lastmod>2016-03-06T08:00:57+09:00</lastmod>
+    <loc>http://localhost:1313/service/</loc>
+    <lastmod>2020-12-01T23:27:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2020-12-01T16:44:18+09:00</lastmod>
   </url>
   
   <url>
@@ -18,38 +23,13 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/top/concept/</loc>
-    <lastmod>2016-02-16T18:30:31+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blog/kotsuhi/</loc>
-    <lastmod>2016-02-15T18:30:31+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/top/category/</loc>
     <lastmod>2016-02-15T18:30:31+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2016-02-15T16:44:18+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/headline/head1/</loc>
     <lastmod>2016-02-15T16:44:18+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blog/moved/</loc>
-    <lastmod>2015-11-27T18:30:31+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/service/</loc>
-    <lastmod>2015-06-28T23:27:10+09:00</lastmod>
   </url>
   
 </urlset>

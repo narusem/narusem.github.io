@@ -6,152 +6,79 @@
     <description>Recent content on Welcome to E-KNOWLEDGE,Corp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 06 Mar 2016 08:00:57 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 23:27:10 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Java講師募集！就業条件のご相談には柔軟に対応いたします</title>
-      <link>http://localhost:1313/blog/adoption/</link>
-      <pubDate>Sun, 06 Mar 2016 08:00:57 +0900</pubDate>
+      <title>サービスのご案内</title>
+      <link>http://localhost:1313/service/</link>
+      <pubDate>Tue, 01 Dec 2020 23:27:10 +0900</pubDate>
       
-      <guid>http://localhost:1313/blog/adoption/</guid>
+      <guid>http://localhost:1313/service/</guid>
       <description>
 
-&lt;h1 id=&#34;採用情報:fe6609753188e14daba6dfe08ee3fb8d&#34;&gt;採用情報&lt;/h1&gt;
+&lt;h1 id=&#34;業務システム開発:ef6aecc285106a598c7096cbbb941d63&#34;&gt;業務システム開発&lt;/h1&gt;
 
-&lt;h2 id=&#34;募集職種:fe6609753188e14daba6dfe08ee3fb8d&#34;&gt;募集職種&lt;/h2&gt;
+&lt;h2 id=&#34;excelを活用したシステム開発:ef6aecc285106a598c7096cbbb941d63&#34;&gt;Excelを活用したシステム開発&lt;/h2&gt;
 
-&lt;p&gt;Java言語研修のインストラクター／メイン講師。
-主に、企業の新人研修案件の講師を担当いただきます。&lt;/p&gt;
+&lt;p&gt;弊社ではマイクロソフトのOffice製品のうちのひとつであるExcelを使用してのお客様の業務の効率化を提案しています。Excelの利点には次のようなものがあります。&lt;/p&gt;
 
-&lt;h2 id=&#34;契約期間:fe6609753188e14daba6dfe08ee3fb8d&#34;&gt;契約期間&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;VBA（マクロ）を用いることによって、機能的には他の手段で開発したアプリケーションと遜色ないものを構築することが可能である。&lt;/li&gt;
+&lt;li&gt;ビジネス用途ではほぼすべてのパソコンにインストール済みである。&lt;/li&gt;
+&lt;li&gt;お客様自身で使い勝手を微調整できる。&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;4月～6月まで（日程に関しては、応相談）&lt;/p&gt;
+&lt;h2 id=&#34;エクセルをデータベースとして使えないか:ef6aecc285106a598c7096cbbb941d63&#34;&gt;エクセルをデータベースとして使えないか。&lt;/h2&gt;
 
-&lt;h2 id=&#34;募集人員:fe6609753188e14daba6dfe08ee3fb8d&#34;&gt;募集人員&lt;/h2&gt;
+&lt;p&gt;弊社ではデータベースの開発が得意です。SQLServerのようなデータベース専用ソフトも利用しますが、エクセルもデータベースの1つとして考えています。
+考え方としては以下のようなものです。
+  1. 扱いたいデータを表形式にして複数に分ける。
+  1. １つのシートに１つの表を割り当てる。
+  1. 表の間でセルの参照を行うように構成する。&lt;/p&gt;
 
-&lt;p&gt;若干名&lt;/p&gt;
+&lt;h2 id=&#34;システム開発の自動化:ef6aecc285106a598c7096cbbb941d63&#34;&gt;システム開発の自動化&lt;/h2&gt;
 
-&lt;h2 id=&#34;契約および報酬:fe6609753188e14daba6dfe08ee3fb8d&#34;&gt;契約および報酬&lt;/h2&gt;
+&lt;p&gt;当社では、独自に開発した手法により、仕様書等からプログラムを自動作成する仕組みを利用しています。これにより、開発にかかわる工数やミスの低減をはかることが出来ます。&lt;/p&gt;
 
-&lt;p&gt;講師としての案件ごとの期間契約になります。
-報酬につきましては、案件により異なります。
-目安としては、
-メイン講師 2万円～5万円程度／1日&lt;/p&gt;
-
-&lt;h2 id=&#34;作業場所:fe6609753188e14daba6dfe08ee3fb8d&#34;&gt;作業場所&lt;/h2&gt;
-
-&lt;p&gt;東京都都内、近郊&lt;/p&gt;
-
-&lt;h2 id=&#34;勤務時間:fe6609753188e14daba6dfe08ee3fb8d&#34;&gt;勤務時間&lt;/h2&gt;
-
-&lt;p&gt;案件により異なりますが、
-9:00～18:00　あたりが目安となります。&lt;/p&gt;
-
-&lt;h2 id=&#34;応募条件:fe6609753188e14daba6dfe08ee3fb8d&#34;&gt;応募条件&lt;/h2&gt;
-
-&lt;p&gt;ITインストラクター
-　開発現場での実務経験が必要です。講師としての経験は必要ありません。　
-  誰とでも気軽にコミュニケーションのとれる方。&lt;/p&gt;
-
-&lt;h2 id=&#34;その他:fe6609753188e14daba6dfe08ee3fb8d&#34;&gt;その他&lt;/h2&gt;
-
-&lt;p&gt;応募に際し、職務経歴書の提出をお願いしております。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>これで解決！</title>
-      <link>http://localhost:1313/top/solution/</link>
-      <pubDate>Tue, 16 Feb 2016 19:30:31 +0900</pubDate>
-      
-      <guid>http://localhost:1313/top/solution/</guid>
-      <description>
-
-&lt;h1 id=&#34;一人でいろいろな業務をこなしきれない-時間にも能力にも限界があるとき:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;一人でいろいろな業務をこなしきれない、時間にも能力にも限界があるとき。&lt;/h1&gt;
-
-&lt;h2 id=&#34;エクセルをデータベースとして使えないか:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;エクセルをデータベースとして使えないか。&lt;/h2&gt;
+&lt;h2 id=&#34;商品案内:ef6aecc285106a598c7096cbbb941d63&#34;&gt;商品案内&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;扱いたいデータを表形式にして複数に分ける。&lt;/li&gt;
-&lt;li&gt;１つのシートに１つの表を割り当てる。&lt;/li&gt;
-&lt;li&gt;表の間でセルの参照を行うように構成する。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;リモートアクセスの仕組みを使って自分の会社のpcに外出先からアクセスできないか:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;リモートアクセスの仕組みを使って自分の会社のPCに外出先からアクセスできないか。&lt;/h2&gt;
+&lt;li&gt;ラクラク！交通費精算
 
 &lt;ul&gt;
-&lt;li&gt;VPN＝Virtual Private Networkの略、つまりインターネット上に仮想的なネットワークを作る&lt;/li&gt;
-&lt;li&gt;仮想化=サーバーの中にパソコンの環境を作る&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>コンセプト</title>
-      <link>http://localhost:1313/top/concept/</link>
-      <pubDate>Tue, 16 Feb 2016 18:30:31 +0900</pubDate>
-      
-      <guid>http://localhost:1313/top/concept/</guid>
-      <description>
-
-&lt;h1 id=&#34;企業が悩んでいることをソフトウェアで解決しよう:2a741f61c790d3ccc95ece52de322078&#34;&gt;企業が悩んでいることをソフトウェアで解決しよう！&lt;/h1&gt;
+&lt;li&gt;Webブラウザを利用して交通費精算の申請を行うことができます。一般社員と経理担当者など権限を分けることによって、交通費申請をする人とそれを承認する人との間のスムーズな連携を可能にします。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ラクラク！人事管理
 
 &lt;ul&gt;
-&lt;li&gt;他の人とのつながりを大切にしよう。&lt;/li&gt;
-&lt;li&gt;めぐってきたチャンスを大切にしよう。&lt;/li&gt;
-&lt;li&gt;相手の気持ちになって考えます。&lt;/li&gt;
-&lt;li&gt;毎日の記録は大事。&lt;/li&gt;
-&lt;li&gt;頑張り過ぎずに、家族は大切に。&lt;/li&gt;
+&lt;li&gt;スタッフの登録、編集、検索が出来るようになります。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ラクラク！商品管理
+
+&lt;ul&gt;
+&lt;li&gt;商品の登録、編集、検索が出来るようになります。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ラクラク！受注管理
+
+&lt;ul&gt;
+&lt;li&gt;受注データの登録、編集、検索を行うことが出来ます。&lt;/li&gt;
+&lt;li&gt;その他、オプションにより請求書印刷、納品書印刷、ピッキングリスト印刷も可能です。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ラクラク！顧客管理
+
+&lt;ul&gt;
+&lt;li&gt;顧客データの登録、編集、検索を行うことができます。&lt;/li&gt;
+&lt;li&gt;その他、オプションにより営業履歴、クレーム対応履歴、宛名印刷も可能です。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ラクラク！交通費精算システム</title>
-      <link>http://localhost:1313/blog/kotsuhi/</link>
-      <pubDate>Mon, 15 Feb 2016 18:30:31 +0900</pubDate>
-      
-      <guid>http://localhost:1313/blog/kotsuhi/</guid>
-      <description>
-
-&lt;h1 id=&#34;フリーソフトをvectorにて公開中です:05788a13a1ddc1bcc9d07d5a6cc86330&#34;&gt;フリーソフトをVectorにて公開中です。&lt;/h1&gt;
-
-&lt;p&gt;今年の4月からの消費税8%の導入に伴い、公共交通機関の運賃もあわせて改定されました。特に、JRなどの運賃は切符を買う場合と電子マネーを
-使う場合とで料金が違うため、これを期に、SuicaやPASMOなどの電子マネーを積極的に使っているという方もいらっしゃると思います。
-弊社では、「ラクラク！交通費精算」というフリーソフトを作成し公開しています。これはモバイルSuicaのSF(電子マネー)利用履歴印刷機能と
-エクセルを利用して、交通費精算の作業を軽減させるものです。
-&lt;a href=&#34;http://www.vector.co.jp/soft/winnt/business/se464745.html&#34;&gt;http://www.vector.co.jp/soft/winnt/business/se464745.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;運賃が1円単位になっても、交通費精算は簡単に出来ますよ！&lt;/p&gt;
-
-&lt;h1 id=&#34;コンセプト:05788a13a1ddc1bcc9d07d5a6cc86330&#34;&gt;コンセプト&lt;/h1&gt;
-
-&lt;p&gt;モバイルSuicaは、現在、公式ホームページにて利用履歴をPDF形式で取得できるようになっています。ＷＥＢ上で履歴の確認が出来るため大変便利な
-機能です。ところが、金額がSuicaの残額の形式でしか見れないため、交通費精算に使うためには、若干不便です。そこで、交通費の残額を
-区間ごとの金額に変換するソフトウェアを作成いたしました。本ソフトウェアを利用することで、エクセルの表の形式に整形し、区間ごとの金額を自動計算します。
-ぜひご活用ください。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>業務分野</title>
-      <link>http://localhost:1313/top/category/</link>
-      <pubDate>Mon, 15 Feb 2016 18:30:31 +0900</pubDate>
-      
-      <guid>http://localhost:1313/top/category/</guid>
-      <description>
-
-&lt;h1 id=&#34;みる-きく-わかる-難しい専門用語をなるべく使わずにご説明を心がけています:3e69721a193c4a440e08a1dc438e9b91&#34;&gt;みる、きく、わかる。難しい専門用語をなるべく使わずにご説明を心がけています。&lt;/h1&gt;
-
-&lt;p&gt;ネットワークセキュリティに関するコンサルティング・ウイルス対策、ＰＣのデータの暗号化・盗難・不正アクセス対策、ネットワークの冗長化・無線ＬＡＮの設置、重要データのバックアップ、外出先でのインターネット接続・ＶＰＮによる社内へのアクセス、本社と支社のネットワークの統合、ＰＣデスクトップの仮想化・リモートアクセス、ＰＣ管理・シンクライアントの導入、オフィス文書の共有、インターネットを介したデータ共有、社内のデータベースの構築、データ集計・評価によるフィードバック、ＩＴに関するトレーニング／研修。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>会社概要</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 15 Feb 2016 16:44:18 +0900</pubDate>
+      <pubDate>Tue, 01 Dec 2020 16:44:18 +0900</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
       <description>
@@ -213,8 +140,6 @@
 
 &lt;p&gt;場所は、ＪＲ王子駅から徒歩５分程度です。二つ隣のビルに「餃子の王将」があります。&lt;/p&gt;
 
-&lt;iframe src=&#34;http://localhost:1313/map.html&#34;  frameborder=&#34;0&#34; scrolling=&#34;no&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;&lt;/iframe&gt;
-
 &lt;h1 id=&#34;個人情報保護方針:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;個人情報保護方針&lt;/h1&gt;
 
 &lt;pre&gt;&lt;code&gt;２００６年１１月１日 制定
@@ -255,283 +180,105 @@
     </item>
     
     <item>
+      <title>これで解決！</title>
+      <link>http://localhost:1313/top/solution/</link>
+      <pubDate>Tue, 16 Feb 2016 19:30:31 +0900</pubDate>
+      
+      <guid>http://localhost:1313/top/solution/</guid>
+      <description>
+
+&lt;h1 id=&#34;こんな事ってありませんか:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;こんな事ってありませんか。&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;社長や担当者が一人でシステムの面倒を見ていて、通常業務をこなしきれない、時間にも能力にも限界があるとき。&lt;/li&gt;
+&lt;li&gt;エクセルで作った表が増えてきて、管理できない。&lt;/li&gt;
+&lt;li&gt;社内で共有しているデータを社外でも見れるようにしたい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;ｅ-ナレッジのサービスの特徴:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;ｅ・ナレッジのサービスの特徴&lt;/h1&gt;
+
+&lt;p&gt;お客様の社内における業務システムの開発・運用の支援を行っています。
+弊社のサービスはソフトウェア開発だけではなく、システムの導入に向けたコンサルティングにも力を入れております。&lt;/p&gt;
+
+&lt;h1 id=&#34;ｅ-ナレッジからのお約束:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;ｅ・ナレッジからのお約束&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;お客様とのコミュニケーションを重視
+
+&lt;ul&gt;
+&lt;li&gt;ＩＴシステムの構築に関して業者への依頼に慣れていないお客様にたいしても、なるべく専門用語を使わず、具体例もふまえてわかりやすい説明をするように心がけております。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;わかりやすいシステム
+
+&lt;ul&gt;
+&lt;li&gt;説明書などがなくてもシステム導入ができるように、機能の絞込みやボタンの配置などにも気を使っております。&lt;/li&gt;
+&lt;li&gt;説明書が必要な場合にも、図や番号などを使うとともに、事前の操作説明にて不安な点の解消を心がけています。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;最後までお付き合い
+
+&lt;ul&gt;
+&lt;li&gt;お客様のビジネスに最適なご提案ができるように、機能面、コスト面だけでなく、将来的な計画なども踏まえて、トータルで効果の出るシステムをご提案いたします。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>業務システム開発事業</title>
+      <link>http://localhost:1313/top/category/</link>
+      <pubDate>Mon, 15 Feb 2016 18:30:31 +0900</pubDate>
+      
+      <guid>http://localhost:1313/top/category/</guid>
+      <description>
+
+&lt;h1 id=&#34;サービスの概要:3e69721a193c4a440e08a1dc438e9b91&#34;&gt;サービスの概要&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ＩＴコンサルティングサービス&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;訪問またはリモートでのご相談への対応。&lt;/li&gt;
+&lt;li&gt;ネットワーク構築、セキュリティ対策、サーバーの設置など。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ソフトウェアの自動生成技術&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Excelによる仕様書からマクロ、VBAその他のプログラムを自動作成。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;技術分野-言語:3e69721a193c4a440e08a1dc438e9b91&#34;&gt;技術分野・言語&lt;/h1&gt;
+
+&lt;p&gt;お客様の業務システムを構築するための技術としてデータベースを重要視しております。
+また、Excel, Access, VB.NET, C# 等マイクロソフト関連の技術に広く精通しています。&lt;/p&gt;
+
+&lt;p&gt;ｅ・ナレッジでは主に下記の分野が得意です。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;マイクロソフトOfficeのカスタマイズ（Excel/Access）&lt;/li&gt;
+&lt;li&gt;データベース開発（SQLServer）&lt;/li&gt;
+&lt;li&gt;WEBプログラミング（HTML/JavaScript）&lt;/li&gt;
+&lt;li&gt;社内のネットワーク環境構築の支援&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ヘッドライン</title>
       <link>http://localhost:1313/headline/head1/</link>
       <pubDate>Mon, 15 Feb 2016 16:44:18 +0900</pubDate>
       
       <guid>http://localhost:1313/headline/head1/</guid>
-      <description>&lt;p&gt;ｅ・ナレッジは、２００５年に創業したITに関するトレーニング/研修やパッケージをメインとした業務システム開発を行っている会社です。&lt;/p&gt;
+      <description>&lt;p&gt;ｅ・ナレッジは、２００５年に創業した「エクセル」などを活用した業務システム開発を得意とするＩＴコンサルティング会社です。&lt;/p&gt;
 
-&lt;p&gt;ＩＴの分野は主にWEB関連の分野と業務システム関連の分野に分かれますが、当社は主に業務システム関連の分野に特化したコンサルティング業務を行っております。中小企業のお客様にとって便利なＩＴ分野の相談相手として選んで頂ければと考えております。&lt;/p&gt;
+&lt;p&gt;中小企業のお客様にとって便利なＩＴ分野の相談相手として選んで頂ければと考えております。&lt;/p&gt;
 
-&lt;p&gt;Ｅｘｃｅｌ／Ａｃｃｅｓｓの活用、社内ネットワークシステムの構築、IT教育・研修に関するご相談はぜひ当社までお問い合わせください。&lt;/p&gt;
+&lt;p&gt;Ｅｘｃｅｌ／Ａｃｃｅｓｓの活用や社内イントラネットの構築に関するご相談はぜひ当社までお問い合わせください。&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;有限会社ｅ・ナレッジ　代表　成瀬真之&lt;/li&gt;
 &lt;li&gt;お問い合わせ先　&lt;span class=&#34;glyphicon glyphicon-phone-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;　TEL／FAX　03-5933-6431&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>事務所を移転いたしました</title>
-      <link>http://localhost:1313/blog/moved/</link>
-      <pubDate>Fri, 27 Nov 2015 18:30:31 +0900</pubDate>
-      
-      <guid>http://localhost:1313/blog/moved/</guid>
-      <description>
-
-&lt;h1 id=&#34;事務所を移転いたしました:fff6e504f56daed5c52abcde0ab4e803&#34;&gt;事務所を移転いたしました。&lt;/h1&gt;
-
-&lt;p&gt;場所は、ＪＲ王子駅から徒歩５分程度です。二つ隣のビルに「餃子の王将」があります。&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe src=&#34;http://localhost:1313/map.html&#34;  frameborder=&#34;0&#34; scrolling=&#34;no&#34; width=&#34;300&#34; height=&#34;300&#34;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>サービスのご案内</title>
-      <link>http://localhost:1313/service/</link>
-      <pubDate>Sun, 28 Jun 2015 23:27:10 +0900</pubDate>
-      
-      <guid>http://localhost:1313/service/</guid>
-      <description>
-
-&lt;h1 id=&#34;itトレーニング-研修:ef6aecc285106a598c7096cbbb941d63&#34;&gt;ITトレーニング/研修&lt;/h1&gt;
-
-&lt;h2 id=&#34;オーダーメイド研修のご案内:ef6aecc285106a598c7096cbbb941d63&#34;&gt;オーダーメイド研修のご案内&lt;/h2&gt;
-
-&lt;p&gt;当社では、お客様のスタッフがＩＴを十分使いこなせるように、ＩＴ人材教育サービスを行っております。
-会場に当社の講師を派遣しての集合研修など、お客様のニーズに応じて対応しています。&lt;/p&gt;
-
-&lt;h3 id=&#34;講師派遣:ef6aecc285106a598c7096cbbb941d63&#34;&gt;講師派遣&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;お客様のもとに当社の講師を派遣して、教育を行うサービスです。
-
-&lt;ul&gt;
-&lt;li&gt;当社はＩＴ関連の企業ですので、分野はＩＴ関連に限らせていただいておりますが、ＩＴ関連企業の新人研修を主力に行っております。&lt;/li&gt;
-&lt;li&gt;講師は、カリキュラムに応じてチーム編成を行い、講師それぞれの得意分野に応じた担当分けになっています。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;事例
-
-&lt;ol&gt;
-&lt;li&gt;大手ＩＴ企業新人研修（メイン、サブ講師）・・・Java言語基礎プログラミング、Javaサーバーサイドプログラミング&lt;/li&gt;
-&lt;li&gt;職業訓練校（メイン講師）・・・WORD／EXCEL／PowerPoint／Access入門&lt;/li&gt;
-&lt;li&gt;専門学校（メイン講師）・・・プログラミング関連講座、ＷＥＢ制作関連講座など多数&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;教育カリキュラム-テキスト制作:ef6aecc285106a598c7096cbbb941d63&#34;&gt;教育カリキュラム／テキスト制作&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;当社では、受託にてＥラーニング教材の制作やテキストの作成など行っております。&lt;/li&gt;
-&lt;li&gt;事例
-
-&lt;ol&gt;
-&lt;li&gt;基本情報試験対策講座　Ｅラーニングテキスト作成&lt;/li&gt;
-&lt;li&gt;データベース入門　テキスト作成&lt;/li&gt;
-&lt;li&gt;Ｃ言語、Ｊａｖａ、ＡＳＰ．ＮＥＴプログラミング関連のテキスト作成&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;集合研修-セミナーの開催:ef6aecc285106a598c7096cbbb941d63&#34;&gt;集合研修／セミナーの開催&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;当社主催での研修／セミナーの企画も行っております。
-
-&lt;ul&gt;
-&lt;li&gt;経営者向けＩＴ活用セミナー&lt;/li&gt;
-&lt;li&gt;スタッフ向けＩＴ実践セミナー&lt;/li&gt;
-&lt;li&gt;技術者研修（Ｃ言語、Ｊａｖａ、ＡＳＰ．ＮＥＴ等の言語研修、ネットワーク技術者養成など）&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;当社のｉｔ研修-セミナー事業のポイント:ef6aecc285106a598c7096cbbb941d63&#34;&gt;当社のＩＴ研修・セミナー事業のポイント&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;丁寧な指導
-
-&lt;ul&gt;
-&lt;li&gt;受講生一人ひとりに声をかけ、受講生と向き合った指導を心がけています。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;実践経験のある講師による実践的な教育
-
-&lt;ul&gt;
-&lt;li&gt;ＩＴの現場での職務経験のある講師陣を起用し、机上の論理ではない実際的な内容を指導します。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;落ちこぼれを出さないための徹底したフォロー
-
-&lt;ul&gt;
-&lt;li&gt;初学者の陥りやすい点を徹底的にマークすることにより、受講生全体の底上げを心がけています。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;カリキュラム:ef6aecc285106a598c7096cbbb941d63&#34;&gt;カリキュラム&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;社員のマイクロソフトOfficeのスキルを向上させたい
-
-&lt;ul&gt;
-&lt;li&gt;Word、Excel、AccessなどマイクロソフトのOfficeを使った研修を実施しています。
-
-&lt;ul&gt;
-&lt;li&gt;人数　２名～４名程度１グループ&lt;/li&gt;
-&lt;li&gt;料金 （お問い合わせください）&lt;/li&gt;
-&lt;li&gt;テキスト オリジナルテキスト（当社で印刷したもの）を使用&lt;/li&gt;
-&lt;li&gt;カリキュラム 受講生の要望によりそのつどカリキュラムを作成しています&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;過去の実施例
-
-&lt;ul&gt;
-&lt;li&gt;WORD研修１　図形の挿入、トリミング、回転などの基本的な使い方&lt;/li&gt;
-&lt;li&gt;WORD研修２　タブとリーダー、段組み、組み込みスタイル、目次の設定などの基本的な使い方&lt;/li&gt;
-&lt;li&gt;EXCEL研修１　セルの参照とよく使う関数の紹介&lt;/li&gt;
-&lt;li&gt;EXCEL研修２　罫線、セルの書式設定、印刷範囲、余白の調整など&lt;/li&gt;
-&lt;li&gt;EXCEL研修３　並べ替え、集計、ピボットテーブル、グラフ、受注管理への応用&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;MOSなどのパソコン資格の取得を目指したい
-
-&lt;ul&gt;
-&lt;li&gt;MOSなどの資格取得を目指す方に、WORD2010／EXCEL2010などを対象とした、研修を行っています。 短期で集中的に学ぶことにより、試験合格に必要な知識の習得を目指します。
-
-&lt;ul&gt;
-&lt;li&gt;コース名　ＭＯＳ試験　直前対策講座&lt;/li&gt;
-&lt;li&gt;概要　ＭＯＳ　試験の合格に必要なスキルを身につける。&lt;/li&gt;
-&lt;li&gt;期間　４日間（５時間×４回）&lt;/li&gt;
-&lt;li&gt;対象　特に制限はありません。&lt;/li&gt;
-&lt;li&gt;前提知識　特にありません。&lt;/li&gt;
-&lt;li&gt;目標　 ＭＯＳ　試験合格レベル&lt;/li&gt;
-&lt;li&gt;カリキュラム（試験科目をＷＯＲＤ／ＥＸＣＥＬのどちらか選んでいただく必要がございます。）&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;プログラムの開発の出来る人材を育成したい
-
-&lt;ul&gt;
-&lt;li&gt;JavaやC言語の出来る人材を育成したい
-
-&lt;ul&gt;
-&lt;li&gt;Javaプログラミング基礎（初級コース　5時間×全4回）&lt;/li&gt;
-&lt;li&gt;Javaプログラミング実習（初級コース　5時間×全4回）&lt;/li&gt;
-&lt;li&gt;Javaサーバーサイド実習（初級コース　5時間×全4回）　※&lt;/li&gt;
-&lt;li&gt;Androidプログラミング実習（初級コース　5時間×全4回）&lt;/li&gt;
-&lt;li&gt;Ｃ言語プログラミング基礎（初級コース　5時間×全4回）　※&lt;/li&gt;
-&lt;li&gt;Ｃ＋＋プログラミング基礎（初級コース　5時間×全4回）　※&lt;/li&gt;
-&lt;li&gt;ＵＭＬ入門（5時間×全4回）&lt;/li&gt;
-&lt;li&gt;PHP基礎（初級コース　5時間×全4回）　※&lt;/li&gt;
-&lt;li&gt;C#基礎（初級コース　5時間×全4回）　※&lt;/li&gt;
-&lt;li&gt;VB.net基礎（初級コース　5時間×全4回）　※&lt;/li&gt;
-&lt;li&gt;ASP.NET（C#またはVB）基礎（初級コース　5時間×全4回）　※&lt;/li&gt;
-&lt;li&gt;※経験者向けの上級コースも設定可能&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;SJCPを取得したい
-
-&lt;ul&gt;
-&lt;li&gt;コース名　オラクル認定ＪａｖａプログラマSE 7（OCJ-P）（Silver） 　直前対策講座&lt;/li&gt;
-&lt;li&gt;概要　OCJ-P　試験の合格に必要なスキルを身につける。&lt;/li&gt;
-&lt;li&gt;期間　３日間（７時間×３回）&lt;/li&gt;
-&lt;li&gt;対象　Java開発、１年程度の経験者&lt;/li&gt;
-&lt;li&gt;前提知識　特にありません。&lt;/li&gt;
-&lt;li&gt;目標　 OCJ-P　Silver　試験合格レベル&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;情報処理技術者の資格を取得したい
-
-&lt;ul&gt;
-&lt;li&gt;基本情報技術者を取得したい
-
-&lt;ul&gt;
-&lt;li&gt;コース名　基本情報技術者試験（ＦＥ）対策講座&lt;/li&gt;
-&lt;li&gt;概要　ＩＴパスポートの試験の合格に必要なスキルを身につける。&lt;/li&gt;
-&lt;li&gt;期間　４日間（５時間×４回）&lt;/li&gt;
-&lt;li&gt;対象　新人または１～２年目程度のＩＴ技術者。&lt;/li&gt;
-&lt;li&gt;前提知識　コンピュータ基礎に関する知識およびJava、Ｃ言語等のプログラミング言語によるプログラミングスキル。&lt;/li&gt;
-&lt;li&gt;目標　基本情報技術者試験合格レベル&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ＩＴパスポートなどのＩＴ資格の取得を目指したい
-
-&lt;ul&gt;
-&lt;li&gt;コース名　ＩＴパスポート試験　直前対策講座&lt;/li&gt;
-&lt;li&gt;概要　ＩＴパスポートの試験の合格に必要なスキルを身につける。&lt;/li&gt;
-&lt;li&gt;期間　４日間（５時間×４回）&lt;/li&gt;
-&lt;li&gt;対象　特に制限はありません。&lt;/li&gt;
-&lt;li&gt;前提知識　特にありません。&lt;/li&gt;
-&lt;li&gt;目標　ＩＴパスポート試験合格レベル&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;ｉｔ実践セミナー:ef6aecc285106a598c7096cbbb941d63&#34;&gt;ＩＴ実践セミナー&lt;/h2&gt;
-
-&lt;p&gt;スタッフ向けのパソコンスキル向上を目標とした入門的なセミナーです。&lt;/p&gt;
-
-&lt;h2 id=&#34;経営者向けｉｔセミナー:ef6aecc285106a598c7096cbbb941d63&#34;&gt;経営者向けＩＴセミナー&lt;/h2&gt;
-
-&lt;p&gt;IT活用に関する以下のような経営者向けのセミナーを定期的に開催しております。&lt;/p&gt;
-
-&lt;h1 id=&#34;業務システム開発:ef6aecc285106a598c7096cbbb941d63&#34;&gt;業務システム開発&lt;/h1&gt;
-
-&lt;h2 id=&#34;excelを活用したシステム開発:ef6aecc285106a598c7096cbbb941d63&#34;&gt;Excelを活用したシステム開発&lt;/h2&gt;
-
-&lt;p&gt;当社ではマイクロソフトのOffice製品のうちのひとつであるExcelを使用してのお客様の業務の効率化を提案しています。Excelを専門で行っている理由は次のようなものです。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;VBA（マクロ）を用いることによって、機能的には他の手段で開発したアプリケーションと遜色ないものを構築することが可能である。&lt;/li&gt;
-&lt;li&gt;ビジネス用途ではほぼすべてのパソコンにインストール済みである。&lt;/li&gt;
-&lt;li&gt;お客様自身で使い勝手を微調整できる。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;当社ではExcelによる開発の行える専門のスタッフを有し、Excelを利用したアプリケーションの開発、カスタマイズ等を行っています。&lt;/p&gt;
-
-&lt;h2 id=&#34;セミオーダーによるシステム提供:ef6aecc285106a598c7096cbbb941d63&#34;&gt;セミオーダーによるシステム提供&lt;/h2&gt;
-
-&lt;p&gt;当社では、業務の基本となる顧客管理や受注管理などの部分を基本パッケージとしてあらかじめ用意しており、それをカスタマイズすることで、低コスト、短納期を実現しています。
-現在、弊社提供の基本パッケージはこちらになります。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;顧客管理・・・オプション（営業履歴、クレーム対応履歴、宛名印刷）&lt;/li&gt;
-&lt;li&gt;受注管理・・・オプション（ピッキングリスト印刷、納品書印刷、請求書印刷、RFM分析）&lt;/li&gt;
-&lt;li&gt;人事管理&lt;/li&gt;
-&lt;li&gt;交通費精算&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;順次、他業務へ対応予定。&lt;/p&gt;
-
-&lt;h2 id=&#34;開発手法の標準化:ef6aecc285106a598c7096cbbb941d63&#34;&gt;開発手法の標準化&lt;/h2&gt;
-
-&lt;p&gt;当社では、独自に開発した標準化ガイドラインに沿って、ソフトウェアの開発を行うことにより、保守性の高いシステムの提供を実現しています。ここでは、その内容をすべて申し上げられませんが、ソフトウェアの部品化に関することや、プログラムの記述方法に関することなど、細部にわたっています。&lt;/p&gt;
-
-&lt;h2 id=&#34;商品案内:ef6aecc285106a598c7096cbbb941d63&#34;&gt;商品案内&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ラクラク！交通費精算
-
-&lt;ul&gt;
-&lt;li&gt;Webブラウザを利用して交通費精算の申請を行うことができます。一般社員と経理担当者など権限を分けることによって、交通費申請をする人とそれを承認する人との間のスムーズな連携を可能にします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ラクラク！人事管理
-
-&lt;ul&gt;
-&lt;li&gt;スタッフの登録、編集、検索が出来るようになります。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ラクラク！商品管理
-
-&lt;ul&gt;
-&lt;li&gt;商品の登録、編集、検索が出来るようになります。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ラクラク！受注管理
-
-&lt;ul&gt;
-&lt;li&gt;受注データの登録、編集、検索を行うことが出来ます。&lt;/li&gt;
-&lt;li&gt;その他、オプションにより請求書印刷、納品書印刷、ピッキングリスト印刷も可能です。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ラクラク！顧客管理
-
-&lt;ul&gt;
-&lt;li&gt;顧客データの登録、編集、検索を行うことができます。&lt;/li&gt;
-&lt;li&gt;その他、オプションにより営業履歴、クレーム対応履歴、宛名印刷も可能です。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

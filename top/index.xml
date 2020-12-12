@@ -17,56 +17,80 @@
       <guid>http://localhost:1313/top/solution/</guid>
       <description>
 
-&lt;h1 id=&#34;一人でいろいろな業務をこなしきれない-時間にも能力にも限界があるとき:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;一人でいろいろな業務をこなしきれない、時間にも能力にも限界があるとき。&lt;/h1&gt;
-
-&lt;h2 id=&#34;エクセルをデータベースとして使えないか:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;エクセルをデータベースとして使えないか。&lt;/h2&gt;
+&lt;h1 id=&#34;こんな事ってありませんか:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;こんな事ってありませんか。&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;扱いたいデータを表形式にして複数に分ける。&lt;/li&gt;
-&lt;li&gt;１つのシートに１つの表を割り当てる。&lt;/li&gt;
-&lt;li&gt;表の間でセルの参照を行うように構成する。&lt;/li&gt;
+&lt;li&gt;社長や担当者が一人でシステムの面倒を見ていて、通常業務をこなしきれない、時間にも能力にも限界があるとき。&lt;/li&gt;
+&lt;li&gt;エクセルで作った表が増えてきて、管理できない。&lt;/li&gt;
+&lt;li&gt;社内で共有しているデータを社外でも見れるようにしたい。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;リモートアクセスの仕組みを使って自分の会社のpcに外出先からアクセスできないか:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;リモートアクセスの仕組みを使って自分の会社のPCに外出先からアクセスできないか。&lt;/h2&gt;
+&lt;h1 id=&#34;ｅ-ナレッジのサービスの特徴:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;ｅ・ナレッジのサービスの特徴&lt;/h1&gt;
+
+&lt;p&gt;お客様の社内における業務システムの開発・運用の支援を行っています。
+弊社のサービスはソフトウェア開発だけではなく、システムの導入に向けたコンサルティングにも力を入れております。&lt;/p&gt;
+
+&lt;h1 id=&#34;ｅ-ナレッジからのお約束:d7310e0fda2aee0c4643d85017cf9724&#34;&gt;ｅ・ナレッジからのお約束&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;VPN＝Virtual Private Networkの略、つまりインターネット上に仮想的なネットワークを作る&lt;/li&gt;
-&lt;li&gt;仮想化=サーバーの中にパソコンの環境を作る&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>コンセプト</title>
-      <link>http://localhost:1313/top/concept/</link>
-      <pubDate>Tue, 16 Feb 2016 18:30:31 +0900</pubDate>
-      
-      <guid>http://localhost:1313/top/concept/</guid>
-      <description>
-
-&lt;h1 id=&#34;企業が悩んでいることをソフトウェアで解決しよう:2a741f61c790d3ccc95ece52de322078&#34;&gt;企業が悩んでいることをソフトウェアで解決しよう！&lt;/h1&gt;
+&lt;li&gt;お客様とのコミュニケーションを重視
 
 &lt;ul&gt;
-&lt;li&gt;他の人とのつながりを大切にしよう。&lt;/li&gt;
-&lt;li&gt;めぐってきたチャンスを大切にしよう。&lt;/li&gt;
-&lt;li&gt;相手の気持ちになって考えます。&lt;/li&gt;
-&lt;li&gt;毎日の記録は大事。&lt;/li&gt;
-&lt;li&gt;頑張り過ぎずに、家族は大切に。&lt;/li&gt;
+&lt;li&gt;ＩＴシステムの構築に関して業者への依頼に慣れていないお客様にたいしても、なるべく専門用語を使わず、具体例もふまえてわかりやすい説明をするように心がけております。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;わかりやすいシステム
+
+&lt;ul&gt;
+&lt;li&gt;説明書などがなくてもシステム導入ができるように、機能の絞込みやボタンの配置などにも気を使っております。&lt;/li&gt;
+&lt;li&gt;説明書が必要な場合にも、図や番号などを使うとともに、事前の操作説明にて不安な点の解消を心がけています。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;最後までお付き合い
+
+&lt;ul&gt;
+&lt;li&gt;お客様のビジネスに最適なご提案ができるように、機能面、コスト面だけでなく、将来的な計画なども踏まえて、トータルで効果の出るシステムをご提案いたします。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>業務分野</title>
+      <title>業務システム開発事業</title>
       <link>http://localhost:1313/top/category/</link>
       <pubDate>Mon, 15 Feb 2016 18:30:31 +0900</pubDate>
       
       <guid>http://localhost:1313/top/category/</guid>
       <description>
 
-&lt;h1 id=&#34;みる-きく-わかる-難しい専門用語をなるべく使わずにご説明を心がけています:3e69721a193c4a440e08a1dc438e9b91&#34;&gt;みる、きく、わかる。難しい専門用語をなるべく使わずにご説明を心がけています。&lt;/h1&gt;
+&lt;h1 id=&#34;サービスの概要:3e69721a193c4a440e08a1dc438e9b91&#34;&gt;サービスの概要&lt;/h1&gt;
 
-&lt;p&gt;ネットワークセキュリティに関するコンサルティング・ウイルス対策、ＰＣのデータの暗号化・盗難・不正アクセス対策、ネットワークの冗長化・無線ＬＡＮの設置、重要データのバックアップ、外出先でのインターネット接続・ＶＰＮによる社内へのアクセス、本社と支社のネットワークの統合、ＰＣデスクトップの仮想化・リモートアクセス、ＰＣ管理・シンクライアントの導入、オフィス文書の共有、インターネットを介したデータ共有、社内のデータベースの構築、データ集計・評価によるフィードバック、ＩＴに関するトレーニング／研修。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ＩＴコンサルティングサービス&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;訪問またはリモートでのご相談への対応。&lt;/li&gt;
+&lt;li&gt;ネットワーク構築、セキュリティ対策、サーバーの設置など。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ソフトウェアの自動生成技術&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Excelによる仕様書からマクロ、VBAその他のプログラムを自動作成。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;技術分野-言語:3e69721a193c4a440e08a1dc438e9b91&#34;&gt;技術分野・言語&lt;/h1&gt;
+
+&lt;p&gt;お客様の業務システムを構築するための技術としてデータベースを重要視しております。
+また、Excel, Access, VB.NET, C# 等マイクロソフト関連の技術に広く精通しています。&lt;/p&gt;
+
+&lt;p&gt;ｅ・ナレッジでは主に下記の分野が得意です。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;マイクロソフトOfficeのカスタマイズ（Excel/Access）&lt;/li&gt;
+&lt;li&gt;データベース開発（SQLServer）&lt;/li&gt;
+&lt;li&gt;WEBプログラミング（HTML/JavaScript）&lt;/li&gt;
+&lt;li&gt;社内のネットワーク環境構築の支援&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
