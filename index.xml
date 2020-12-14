@@ -6,74 +6,8 @@
     <description>Recent content on Welcome to E-KNOWLEDGE,Corp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 01 Dec 2020 23:27:10 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 16:44:18 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>サービスのご案内</title>
-      <link>http://localhost:1313/service/</link>
-      <pubDate>Tue, 01 Dec 2020 23:27:10 +0900</pubDate>
-      
-      <guid>http://localhost:1313/service/</guid>
-      <description>
-
-&lt;h1 id=&#34;業務システム開発:ef6aecc285106a598c7096cbbb941d63&#34;&gt;業務システム開発&lt;/h1&gt;
-
-&lt;h2 id=&#34;excelを活用したシステム開発:ef6aecc285106a598c7096cbbb941d63&#34;&gt;Excelを活用したシステム開発&lt;/h2&gt;
-
-&lt;p&gt;弊社ではマイクロソフトのOffice製品のうちのひとつであるExcelを使用してのお客様の業務の効率化を提案しています。Excelの利点には次のようなものがあります。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;VBA（マクロ）を用いることによって、機能的には他の手段で開発したアプリケーションと遜色ないものを構築することが可能である。&lt;/li&gt;
-&lt;li&gt;ビジネス用途ではほぼすべてのパソコンにインストール済みである。&lt;/li&gt;
-&lt;li&gt;お客様自身で使い勝手を微調整できる。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;エクセルをデータベースとして使えないか:ef6aecc285106a598c7096cbbb941d63&#34;&gt;エクセルをデータベースとして使えないか。&lt;/h2&gt;
-
-&lt;p&gt;弊社ではデータベースの開発が得意です。SQLServerのようなデータベース専用ソフトも利用しますが、エクセルもデータベースの1つとして考えています。
-考え方としては以下のようなものです。
-  1. 扱いたいデータを表形式にして複数に分ける。
-  1. １つのシートに１つの表を割り当てる。
-  1. 表の間でセルの参照を行うように構成する。&lt;/p&gt;
-
-&lt;h2 id=&#34;システム開発の自動化:ef6aecc285106a598c7096cbbb941d63&#34;&gt;システム開発の自動化&lt;/h2&gt;
-
-&lt;p&gt;当社では、独自に開発した手法により、仕様書等からプログラムを自動作成する仕組みを利用しています。これにより、開発にかかわる工数やミスの低減をはかることが出来ます。&lt;/p&gt;
-
-&lt;h2 id=&#34;商品案内:ef6aecc285106a598c7096cbbb941d63&#34;&gt;商品案内&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ラクラク！交通費精算
-
-&lt;ul&gt;
-&lt;li&gt;Webブラウザを利用して交通費精算の申請を行うことができます。一般社員と経理担当者など権限を分けることによって、交通費申請をする人とそれを承認する人との間のスムーズな連携を可能にします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ラクラク！人事管理
-
-&lt;ul&gt;
-&lt;li&gt;スタッフの登録、編集、検索が出来るようになります。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ラクラク！商品管理
-
-&lt;ul&gt;
-&lt;li&gt;商品の登録、編集、検索が出来るようになります。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ラクラク！受注管理
-
-&lt;ul&gt;
-&lt;li&gt;受注データの登録、編集、検索を行うことが出来ます。&lt;/li&gt;
-&lt;li&gt;その他、オプションにより請求書印刷、納品書印刷、ピッキングリスト印刷も可能です。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ラクラク！顧客管理
-
-&lt;ul&gt;
-&lt;li&gt;顧客データの登録、編集、検索を行うことができます。&lt;/li&gt;
-&lt;li&gt;その他、オプションにより営業履歴、クレーム対応履歴、宛名印刷も可能です。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>会社概要</title>
@@ -261,6 +195,10 @@
 &lt;li&gt;WEBプログラミング（HTML/JavaScript）&lt;/li&gt;
 &lt;li&gt;社内のネットワーク環境構築の支援&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h1 id=&#34;会社案内:3e69721a193c4a440e08a1dc438e9b91&#34;&gt;会社案内&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;20201201.pdf&#34;&gt;ダウンロード&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
